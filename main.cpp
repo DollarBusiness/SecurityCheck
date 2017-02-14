@@ -1,7 +1,7 @@
 #include <iostream>
-#include<conio.h>
-#include<stdlib.h>
-#include<stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <stdio.h>
 #include <windows.h>
 
 
@@ -26,7 +26,7 @@ int main()
         if(a != passCheck){
             NOT--;
         }else{
-            cout << "WELCOME MASTER" << endl;
+            cout << "WELCOME, MASTER" << endl;
             return 0;
         }
         cout << " " << endl;
